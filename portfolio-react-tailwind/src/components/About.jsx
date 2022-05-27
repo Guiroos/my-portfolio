@@ -20,7 +20,7 @@ export default function About() {
           </div>
           <div>
             <p className="text-xl">
-              Mechanical Engineer going through a career transition process with studies in Full Stack Web Development.
+              I&apos;m a Mechanical Engineer going through a career transition process with studies in Full Stack Web Development.
               <br />
               I have been a technology enthusiast since I was a kid, and when I had contact with the programming area again, that flame rekindled and the desire to consume all kinds of languages returned.
             </p>
