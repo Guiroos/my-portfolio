@@ -12,7 +12,7 @@ export default function Navbar() {
   const handleClick = () => setIsOpen(!isOpen);
 
   return (
-    <nav className="fixed w-full h-[120px] flex justify-between items-center px-2 bg-gradient-to-b from-purple-800 to-cyan-400">
+    <nav className="fixed w-full h-[80px] flex justify-between items-center px-2 bg-gradient-to-b from-purple-800 to-cyan-400">
 
       <div>
         <img className="w-20" src={Logo} alt="Logo" />
