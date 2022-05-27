@@ -29,7 +29,7 @@ export default function Navbar() {
         {!isOpen ? <FaBars size={30} className="text-white" /> : <FaTimes size={30} className="text-white" />}
       </div>
 
-      <ul className={!isOpen ? "hidden" : "absolute top-0 left-0 w-full h-screen flex flex-col justify-center items-center bg-[#eb57ff] text-white"}>
+      <ul className={!isOpen ? "hidden" : "absolute top-0 left-0 w-full h-screen flex flex-col justify-center items-center bg-purple-800 text-white"}>
         <li className="py-6 text-4xl">/home</li>
         <li className="py-6 text-4xl">/about </li>
         <li className="py-6 text-4xl">/projects</li>
